@@ -1,0 +1,13 @@
+Cassava_Bacterial_Blight, ap = 100.00%   	 (TP = 12, FP = 1) 
+Cassava_Mosaic_Virus, ap = 100.00%   	 (TP = 21, FP = 0) 
+Cassava_Healthy_leaf, ap = 100.00%   	 (TP = 24, FP = 0) 
+
+Precision = 0.98, Recall = 1.00,
+TP = 57, FP = 1, FN = 0, average IoU = 74.82 % 
+
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 1.000000, or 100.00 %
+
+TP : True Positive
+FP: False Positive
+FN: False Negative
